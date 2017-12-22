@@ -1,4 +1,4 @@
-name := "akka-streams-basic"
+name := "streaming-technologies-playground"
 
 version := "1.0"
 
